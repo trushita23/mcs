@@ -1,0 +1,94 @@
+.inline-icon {
+   vertical-align: bottom;
+   font-size: 25px !important;
+	 margin-right: 10px !important;
+}
+.footer-text
+{
+	font-size: 17px !important;
+
+}
+/* .card-panel>span
+{
+	font-size: large;
+} */
+.image-center
+{
+	  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.div-header
+{
+  width: 100%;
+  height: 300px;
+  background-color: black;
+}
+.image-header
+{
+  display: block;
+  width: 100%;
+  height: 400px;
+}
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.image-heading
+{
+   padding-left: 3em;
+}
+#address-text
+{
+  line-height: 1.2;
+  text-indent:2em;
+
+}
+/* .nav-image
+{
+  background-image: url('../img/mcs_header.jpg');
+  width: 100%;
+  height: 10%
+} */
+/* .nav-material .nav-wrapper .brand-logo img {
+  height: 64px;
+}
+@media (max-width: 600px) {
+  .navbar-material .nav-wrapper .brand-logo img {
+    height: 56px;
+  } */
+#vission-image
+{
+  display: block;
+  height: 50%;
+  width: 100%
+}
+#content img
+{
+  float:left;
+}
+.card-size
+{
+  height: 30%
+}
+
+/* about us gallery of machine images */
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+div.gallery img {
+    width: 100%;
+    height: 100%;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
